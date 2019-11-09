@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop\Assignment4Cshop\bin\Debug\Assignment4Cshop.exe.config
+C:\Users\user\Desktop\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop\Assignment4Cshop\bin\Debug\Assignment4Cshop.exe
+C:\Users\user\Desktop\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop\Assignment4Cshop\bin\Debug\Assignment4Cshop.pdb
+C:\Users\user\Desktop\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop\Assignment4Cshop\obj\Debug\Assignment4Cshop.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop\Assignment4Cshop\obj\Debug\Assignment4Cshop.Form1.resources
+C:\Users\user\Desktop\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop\Assignment4Cshop\obj\Debug\Assignment4Cshop.Properties.Resources.resources
+C:\Users\user\Desktop\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop\Assignment4Cshop\obj\Debug\Assignment4Cshop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop\Assignment4Cshop\obj\Debug\Assignment4Cshop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop\Assignment4Cshop\obj\Debug\Assignment4Cshop.exe
+C:\Users\user\Desktop\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop\Assignment4Cshop\obj\Debug\Assignment4Cshop.pdb
+C:\Users\user\Desktop\새 폴더\school\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop(Baek)\Assignment4Cshop\bin\Debug\Assignment4Cshop.exe.config
+C:\Users\user\Desktop\새 폴더\school\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop(Baek)\Assignment4Cshop\bin\Debug\Assignment4Cshop.exe
+C:\Users\user\Desktop\새 폴더\school\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop(Baek)\Assignment4Cshop\bin\Debug\Assignment4Cshop.pdb
+C:\Users\user\Desktop\새 폴더\school\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop(Baek)\Assignment4Cshop\obj\Debug\Assignment4Cshop.csprojAssemblyReference.cache
+C:\Users\user\Desktop\새 폴더\school\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop(Baek)\Assignment4Cshop\obj\Debug\Assignment4Cshop.Form1.resources
+C:\Users\user\Desktop\새 폴더\school\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop(Baek)\Assignment4Cshop\obj\Debug\Assignment4Cshop.Properties.Resources.resources
+C:\Users\user\Desktop\새 폴더\school\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop(Baek)\Assignment4Cshop\obj\Debug\Assignment4Cshop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\새 폴더\school\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop(Baek)\Assignment4Cshop\obj\Debug\Assignment4Cshop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\새 폴더\school\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop(Baek)\Assignment4Cshop\obj\Debug\Assignment4Cshop.exe
+C:\Users\user\Desktop\새 폴더\school\2semester\progr2\Assignment\assignment4Gul\Assignment4Cshop(Baek)\Assignment4Cshop\obj\Debug\Assignment4Cshop.pdb
